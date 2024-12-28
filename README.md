@@ -80,7 +80,7 @@ The agent’s performance improved steadily, achieving the maximum reward (500) 
 
 Episodes where the agent balanced the pole for 500 time steps demonstrated the learned policy’s effectiveness.
 
-**Figure 2**: Visualization of the agent’s actions during evaluation episodes.
+**Video 2**: Visualization of the agent’s actions during evaluation episodes.
 
 - [Episode 792 Evaluation Video](visuals/policy.mp4)
 
