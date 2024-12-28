@@ -74,7 +74,7 @@ The agent’s performance improved steadily, achieving the maximum reward (500) 
 
 **Figure 1**: Plot of episode returns over training episodes.
 
-![Training Performance](visuals/episode_returns_plot.png)
+![Training Performance](/visuals/DQN_Train.png)
 
 #### **4.2 Policy Visualization**
 
@@ -82,7 +82,7 @@ Episodes where the agent balanced the pole for 500 time steps demonstrated the l
 
 **Figure 2**: Visualization of the agent’s actions during evaluation episodes.
 
-- [Episode 792 Evaluation Video](visuals/rl-video-episode-792.mp4)
+- [Episode 792 Evaluation Video](visuals/policy.mp4)
 
 ---
 
